@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@vercel/node": "^1.9.1"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "semi": false,
+    "singleQuote": true
+  }
+}
